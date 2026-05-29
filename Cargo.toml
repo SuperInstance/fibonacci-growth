@@ -1,0 +1,6 @@
+[package]
+name = "fibonacci-growth"
+version = "0.1.0"
+edition = "2021"
+description = "Fibonacci team growth → CR = 1/φ. Penrose outward, Mandelbrot inward. Pure Rust."
+license = "MIT"
